@@ -18,6 +18,7 @@ I build process automations with language models that run in production: an emai
 | [site-health-monitor](https://github.com/MarcinPakulaOff/site-health-monitor) | Uptime, SSL expiry and sitemap watchdog that alerts on change, not on every run (N failures in a row, one recovery message) |
 | [gsc-seo-reporter](https://github.com/MarcinPakulaOff/gsc-seo-reporter) | Weekly Google Search Console report on Telegram: position moves, new queries, sitemap pages Google ignores. Service-account JWT auth |
 | [offer-pdf-generator](https://github.com/MarcinPakulaOff/offer-pdf-generator) | JSON brief → priced offer PDF. Prices only from one pricing file, `Decimal` money, a brief cannot go below the price list |
+| [website-lead-scorer](https://github.com/MarcinPakulaOff/website-lead-scorer) | Firm list → leads for websites: no site, down, no HTTPS, not mobile-friendly, slow, outdated. Rules as data, scoring as a pure function |
 | [ksef-xml-parser](https://github.com/MarcinPakulaOff/ksef-xml-parser) | KSeF FA(3) XML → typed records, CSV and monthly VAT totals, standard library only |
 
 📫 kontakt@atomflow.pl · open to B2B or full-time, remote or near Opole
